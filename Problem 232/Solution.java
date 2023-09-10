@@ -34,7 +34,7 @@ class MyQueue {
 }
 
 /**
-  * Time Complexity O(1)
+  * Time Complexity O(1) each operation
   * Space Complexity O(n)
 
 /**
