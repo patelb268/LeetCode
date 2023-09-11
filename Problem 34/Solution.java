@@ -31,6 +31,6 @@ class Solution {
 }
 
 /**
-  * Time Complexity : O(N)
+  * Time Complexity : O(log N)
   * Space Complexity : O(1)
   */
